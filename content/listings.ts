@@ -45,40 +45,40 @@ export interface Listing {
 export const listings: Listing[] = [
   {
     slug: "it-strategy-consulting",
-    title: "IT Strategy Consulting",
+    title: "Intro to Computing Consultation",
     category: "CONSULTING",
     description:
-      "Work with our consultants to map your technology roadmap, assess risk, " +
-      "and plan the systems your business needs over the next 12 months.",
+      "Find out how it works, " +
+      "and plan your next project.",
     inquiry_type: "INQUIRE",
     image_url: "/images/placeholder-consulting.svg",
   },
   {
     slug: "business-website-build",
-    title: "Business Website Build",
+    title: "Computer Programming",
     category: "WEB_DEV",
     description:
-      "A fast, modern marketing website with a content system you can update " +
-      "yourself. Request a quote and we will scope it with you.",
+      "Learn about C# and other programming languages " +
+      "yourself.",
     inquiry_type: "QUOTE",
     image_url: "/images/placeholder-web-dev.svg",
   },
   {
     slug: "inventory-management-app",
-    title: "Custom Inventory Management App",
+    title: "Graphic Design",
     category: "CUSTOM_SOFTWARE",
     description:
-      "A tailored inventory and ordering application built around your workflow. " +
+      "A tailored graphic design solution for your brand. " +
       "Book a live demo to see a working example.",
     inquiry_type: "DEMO",
     image_url: "/images/placeholder-custom-software.svg",
   },
    {
-    slug: "Tenz Coaching,",
+    slug: "OneZ Coaching,",
     title: "Banorant Coaching ",
     category: "CONSULTING",
     description:
-      "From bronze to radiant.",
+      "FROM RADIANT TO IRON.",
     inquiry_type: "DEMO",
     image_url: "/images/Banorant.png",
   },
